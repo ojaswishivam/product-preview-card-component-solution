@@ -10,9 +10,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -38,6 +35,7 @@ Users should be able to:
 - Solution URL: (https://github.com/ojaswishivam/product-preview-card-component-solution)
 - Live Site URL: (https://ojaswishivam.github.io/product-preview-card-component-solution)
 
+## My process
 
 ### Built with
 
